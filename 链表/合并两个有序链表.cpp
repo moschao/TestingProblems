@@ -17,10 +17,7 @@ struct ListNode {
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-//        ListNode* ptr1 = list1;
-//        ListNode* ptr2 = list2;
-//        ListNode* ptr = nullptr;
-        ListNode* L = nullptr;
+        ListNode* L;
         if(list1 == nullptr && list2 == nullptr){
             return list1;
         }
@@ -31,19 +28,21 @@ public:
             return list1;
         }
 
-        ListNode* Lnode = new ListNode;
+        ListNode* Lnode = new ListNode();
         L = Lnode;
         while(list1 != nullptr && list2 != nullptr){
 
             if(list1 -> val <= list2->val){
                 Lnode->val = list1->val;
+                std::cout << Lnode->val << std::endl;
                 list1 = list1->next;
                 ListNode* l = new ListNode;
                 Lnode->next = l;
                 Lnode  = Lnode->next;
 
-            }else{
+            }else{    //list1的值大于list2的值
                 Lnode->val = list2->val;
+                std::cout << Lnode->val << std::endl;
                 list2 = list2->next;
                 ListNode* l = new ListNode;
                 Lnode->next = l;
@@ -56,6 +55,7 @@ public:
         if(list1 == nullptr){
             while(list2!=nullptr){
                 Lnode->val = list2->val;
+                std::cout << Lnode->val<<std::endl;
                 list2 = list2->next;
                 ListNode* p = new ListNode;
                 Lnode->next = p;
@@ -67,6 +67,8 @@ public:
         if(list2 == nullptr){
             while(list1!=nullptr){
                 Lnode->val = list1->val;
+                std::cout << Lnode->val<<std::endl;
+
                 list1 = list1->next;
                 ListNode* p = new ListNode;
                 Lnode->next = p;
@@ -80,35 +82,40 @@ public:
 };
 
 int main(){
-    ListNode* ptr1 = new ListNode;
-    ListNode* ptr = nullptr;
-    ptr = ptr1;
-    ptr1->val = 1;
-    ListNode* pp = new ListNode;
-    ptr1 -> next = pp;
-    ptr1 = ptr1-> next;
-    ptr1 -> val = 2;
-    ptr1-> next = new ListNode;
-    ptr1 = ptr1 -> next;
-    ptr1->val = 4;
-    ptr1->next = nullptr;
+   ListNode* ptr1 = new ListNode();
+   ListNode* ptr2 = ptr1;
+   ptr1->val = 1;
+   ptr1->next = new ListNode();
+   ptr1 = ptr1->next;   //第一个结点
 
-    ListNode* ptrO = nullptr;
-    ListNode* ptrP = nullptr;
+   ptr1->val = 2;
+   ptr1->next = new ListNode();
+   ptr1 = ptr1->next;    //第二个结点
 
-    ptrP = ptrO;
-    ptrO = new ListNode;
-    ptrO->val = 1;
-    ptrO->next = new ListNode;
-    ptrO->val = 3;
-    ptrO = ptrO->next;
-    ptrO->val = 4;
-    ptrO->next = nullptr;
-    ListNode* tem = Solution().mergeTwoLists(ptr,ptrP);
-    while(tem!=nullptr){
-        std::cout << tem->val << std::endl;
+   ptr1->val = 4;       //尾结点
 
-    }
+
+   ListNode* ptr3 = new ListNode();
+   ListNode* ptr4 = ptr3;
+   ptr3->val = 1;
+   ptr3->next = new ListNode();
+   ptr3 = ptr3->next;   //第一个结点
+
+   ptr3->val = 3;
+   ptr3->next = new ListNode();
+   ptr3 = ptr3->next;    //第二个结点
+
+   ptr3->val = 4;       //尾结点
+
+
+
+
+    ListNode* tem = Solution().mergeTwoLists(ptr2,ptr4);
+//    while(tem!=nullptr){
+//        std::cout << tem->val << std::endl;
+//        tem = tem->next;
+//
+//    }
 
     return 0;
 
