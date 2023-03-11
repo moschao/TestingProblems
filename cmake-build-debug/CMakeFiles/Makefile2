@@ -81,12 +81,12 @@ clean: CMakeFiles/TestingProblems.dir/clean
 CMakeFiles/TestingProblems.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target TestingProblems"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target TestingProblems"
 .PHONY : CMakeFiles/TestingProblems.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/TestingProblems.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/TestingProblems.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/TestingProblems.dir/rule

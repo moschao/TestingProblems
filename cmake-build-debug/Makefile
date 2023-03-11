@@ -129,30 +129,6 @@ TestingProblems/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/build
 .PHONY : TestingProblems/fast
 
-链表/反转链表.o: 链表/反转链表.cpp.o
-.PHONY : 链表/反转链表.o
-
-# target to build an object file
-链表/反转链表.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.o
-.PHONY : 链表/反转链表.cpp.o
-
-链表/反转链表.i: 链表/反转链表.cpp.i
-.PHONY : 链表/反转链表.i
-
-# target to preprocess a source file
-链表/反转链表.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.i
-.PHONY : 链表/反转链表.cpp.i
-
-链表/反转链表.s: 链表/反转链表.cpp.s
-.PHONY : 链表/反转链表.s
-
-# target to generate assembly for a file
-链表/反转链表.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.s
-.PHONY : 链表/反转链表.cpp.s
-
 链表/合并两个有序链表.o: 链表/合并两个有序链表.cpp.o
 .PHONY : 链表/合并两个有序链表.o
 
@@ -186,9 +162,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... TestingProblems"
-	@echo "... 链表/反转链表.o"
-	@echo "... 链表/反转链表.i"
-	@echo "... 链表/反转链表.s"
 	@echo "... 链表/合并两个有序链表.o"
 	@echo "... 链表/合并两个有序链表.i"
 	@echo "... 链表/合并两个有序链表.s"

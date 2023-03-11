@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/链表/反转链表.cpp">
-			<Option target="TestingProblems"/>
-		</Unit>
 		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/链表/合并两个有序链表.cpp">
 			<Option target="TestingProblems"/>
 		</Unit>
