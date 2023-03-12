@@ -80,6 +80,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/字符串类/5.最长回文子串.cpp">
+			<Option target="TestingProblems"/>
+		</Unit>
+		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/字符串类/无重复字符的最长子串.cpp">
+			<Option target="TestingProblems"/>
+		</Unit>
+		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/排序类/HJ68成绩排序.cpp">
+			<Option target="TestingProblems"/>
+		</Unit>
+		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/HJ3明明的随机数.cpp">
+			<Option target="TestingProblems"/>
+		</Unit>
+		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/链表/分隔链表.cpp">
+			<Option target="TestingProblems"/>
+		</Unit>
+		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/链表/反转链表.cpp">
+			<Option target="TestingProblems"/>
+		</Unit>
 		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/链表/合并两个有序链表.cpp">
 			<Option target="TestingProblems"/>
 		</Unit>

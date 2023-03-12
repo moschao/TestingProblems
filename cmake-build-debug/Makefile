@@ -129,6 +129,150 @@ TestingProblems/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/build
 .PHONY : TestingProblems/fast
 
+字符串类/5.最长回文子串.o: 字符串类/5.最长回文子串.cpp.o
+.PHONY : 字符串类/5.最长回文子串.o
+
+# target to build an object file
+字符串类/5.最长回文子串.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.o
+.PHONY : 字符串类/5.最长回文子串.cpp.o
+
+字符串类/5.最长回文子串.i: 字符串类/5.最长回文子串.cpp.i
+.PHONY : 字符串类/5.最长回文子串.i
+
+# target to preprocess a source file
+字符串类/5.最长回文子串.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.i
+.PHONY : 字符串类/5.最长回文子串.cpp.i
+
+字符串类/5.最长回文子串.s: 字符串类/5.最长回文子串.cpp.s
+.PHONY : 字符串类/5.最长回文子串.s
+
+# target to generate assembly for a file
+字符串类/5.最长回文子串.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.s
+.PHONY : 字符串类/5.最长回文子串.cpp.s
+
+字符串类/无重复字符的最长子串.o: 字符串类/无重复字符的最长子串.cpp.o
+.PHONY : 字符串类/无重复字符的最长子串.o
+
+# target to build an object file
+字符串类/无重复字符的最长子串.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.o
+.PHONY : 字符串类/无重复字符的最长子串.cpp.o
+
+字符串类/无重复字符的最长子串.i: 字符串类/无重复字符的最长子串.cpp.i
+.PHONY : 字符串类/无重复字符的最长子串.i
+
+# target to preprocess a source file
+字符串类/无重复字符的最长子串.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.i
+.PHONY : 字符串类/无重复字符的最长子串.cpp.i
+
+字符串类/无重复字符的最长子串.s: 字符串类/无重复字符的最长子串.cpp.s
+.PHONY : 字符串类/无重复字符的最长子串.s
+
+# target to generate assembly for a file
+字符串类/无重复字符的最长子串.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.s
+.PHONY : 字符串类/无重复字符的最长子串.cpp.s
+
+排序类/HJ68成绩排序.o: 排序类/HJ68成绩排序.cpp.o
+.PHONY : 排序类/HJ68成绩排序.o
+
+# target to build an object file
+排序类/HJ68成绩排序.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.o
+.PHONY : 排序类/HJ68成绩排序.cpp.o
+
+排序类/HJ68成绩排序.i: 排序类/HJ68成绩排序.cpp.i
+.PHONY : 排序类/HJ68成绩排序.i
+
+# target to preprocess a source file
+排序类/HJ68成绩排序.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.i
+.PHONY : 排序类/HJ68成绩排序.cpp.i
+
+排序类/HJ68成绩排序.s: 排序类/HJ68成绩排序.cpp.s
+.PHONY : 排序类/HJ68成绩排序.s
+
+# target to generate assembly for a file
+排序类/HJ68成绩排序.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.s
+.PHONY : 排序类/HJ68成绩排序.cpp.s
+
+数组/HJ3明明的随机数.o: 数组/HJ3明明的随机数.cpp.o
+.PHONY : 数组/HJ3明明的随机数.o
+
+# target to build an object file
+数组/HJ3明明的随机数.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.o
+.PHONY : 数组/HJ3明明的随机数.cpp.o
+
+数组/HJ3明明的随机数.i: 数组/HJ3明明的随机数.cpp.i
+.PHONY : 数组/HJ3明明的随机数.i
+
+# target to preprocess a source file
+数组/HJ3明明的随机数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.i
+.PHONY : 数组/HJ3明明的随机数.cpp.i
+
+数组/HJ3明明的随机数.s: 数组/HJ3明明的随机数.cpp.s
+.PHONY : 数组/HJ3明明的随机数.s
+
+# target to generate assembly for a file
+数组/HJ3明明的随机数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.s
+.PHONY : 数组/HJ3明明的随机数.cpp.s
+
+链表/分隔链表.o: 链表/分隔链表.cpp.o
+.PHONY : 链表/分隔链表.o
+
+# target to build an object file
+链表/分隔链表.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.o
+.PHONY : 链表/分隔链表.cpp.o
+
+链表/分隔链表.i: 链表/分隔链表.cpp.i
+.PHONY : 链表/分隔链表.i
+
+# target to preprocess a source file
+链表/分隔链表.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.i
+.PHONY : 链表/分隔链表.cpp.i
+
+链表/分隔链表.s: 链表/分隔链表.cpp.s
+.PHONY : 链表/分隔链表.s
+
+# target to generate assembly for a file
+链表/分隔链表.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.s
+.PHONY : 链表/分隔链表.cpp.s
+
+链表/反转链表.o: 链表/反转链表.cpp.o
+.PHONY : 链表/反转链表.o
+
+# target to build an object file
+链表/反转链表.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.o
+.PHONY : 链表/反转链表.cpp.o
+
+链表/反转链表.i: 链表/反转链表.cpp.i
+.PHONY : 链表/反转链表.i
+
+# target to preprocess a source file
+链表/反转链表.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.i
+.PHONY : 链表/反转链表.cpp.i
+
+链表/反转链表.s: 链表/反转链表.cpp.s
+.PHONY : 链表/反转链表.s
+
+# target to generate assembly for a file
+链表/反转链表.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.s
+.PHONY : 链表/反转链表.cpp.s
+
 链表/合并两个有序链表.o: 链表/合并两个有序链表.cpp.o
 .PHONY : 链表/合并两个有序链表.o
 
@@ -162,6 +306,24 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... TestingProblems"
+	@echo "... 字符串类/5.最长回文子串.o"
+	@echo "... 字符串类/5.最长回文子串.i"
+	@echo "... 字符串类/5.最长回文子串.s"
+	@echo "... 字符串类/无重复字符的最长子串.o"
+	@echo "... 字符串类/无重复字符的最长子串.i"
+	@echo "... 字符串类/无重复字符的最长子串.s"
+	@echo "... 排序类/HJ68成绩排序.o"
+	@echo "... 排序类/HJ68成绩排序.i"
+	@echo "... 排序类/HJ68成绩排序.s"
+	@echo "... 数组/HJ3明明的随机数.o"
+	@echo "... 数组/HJ3明明的随机数.i"
+	@echo "... 数组/HJ3明明的随机数.s"
+	@echo "... 链表/分隔链表.o"
+	@echo "... 链表/分隔链表.i"
+	@echo "... 链表/分隔链表.s"
+	@echo "... 链表/反转链表.o"
+	@echo "... 链表/反转链表.i"
+	@echo "... 链表/反转链表.s"
 	@echo "... 链表/合并两个有序链表.o"
 	@echo "... 链表/合并两个有序链表.i"
 	@echo "... 链表/合并两个有序链表.s"

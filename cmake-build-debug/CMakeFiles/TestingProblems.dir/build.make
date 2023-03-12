@@ -66,9 +66,61 @@ include CMakeFiles/TestingProblems.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/TestingProblems.dir/flags.make
 
+CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.o: CMakeFiles/TestingProblems.dir/flags.make
+CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.o: ../字符串类/5.最长回文子串.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.o -c /Users/godchao/CLionProjects/TestingProblems/字符串类/5.最长回文子串.cpp
+
+CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/godchao/CLionProjects/TestingProblems/字符串类/5.最长回文子串.cpp > CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.i
+
+CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/godchao/CLionProjects/TestingProblems/字符串类/5.最长回文子串.cpp -o CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.s
+
+CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.o: CMakeFiles/TestingProblems.dir/flags.make
+CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.o: ../字符串类/无重复字符的最长子串.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.o -c /Users/godchao/CLionProjects/TestingProblems/字符串类/无重复字符的最长子串.cpp
+
+CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/godchao/CLionProjects/TestingProblems/字符串类/无重复字符的最长子串.cpp > CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.i
+
+CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/godchao/CLionProjects/TestingProblems/字符串类/无重复字符的最长子串.cpp -o CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.s
+
+CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.o: CMakeFiles/TestingProblems.dir/flags.make
+CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.o: ../排序类/HJ68成绩排序.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.o -c /Users/godchao/CLionProjects/TestingProblems/排序类/HJ68成绩排序.cpp
+
+CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/godchao/CLionProjects/TestingProblems/排序类/HJ68成绩排序.cpp > CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.i
+
+CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/godchao/CLionProjects/TestingProblems/排序类/HJ68成绩排序.cpp -o CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.s
+
+CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.o: CMakeFiles/TestingProblems.dir/flags.make
+CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.o: ../数组/HJ3明明的随机数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.o -c /Users/godchao/CLionProjects/TestingProblems/数组/HJ3明明的随机数.cpp
+
+CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/godchao/CLionProjects/TestingProblems/数组/HJ3明明的随机数.cpp > CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.i
+
+CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/godchao/CLionProjects/TestingProblems/数组/HJ3明明的随机数.cpp -o CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.s
+
 CMakeFiles/TestingProblems.dir/链表/合并两个有序链表.cpp.o: CMakeFiles/TestingProblems.dir/flags.make
 CMakeFiles/TestingProblems.dir/链表/合并两个有序链表.cpp.o: ../链表/合并两个有序链表.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TestingProblems.dir/链表/合并两个有序链表.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/TestingProblems.dir/链表/合并两个有序链表.cpp.o"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TestingProblems.dir/链表/合并两个有序链表.cpp.o -c /Users/godchao/CLionProjects/TestingProblems/链表/合并两个有序链表.cpp
 
 CMakeFiles/TestingProblems.dir/链表/合并两个有序链表.cpp.i: cmake_force
@@ -79,17 +131,55 @@ CMakeFiles/TestingProblems.dir/链表/合并两个有序链表.cpp.s: cmake_forc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TestingProblems.dir/链表/合并两个有序链表.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/godchao/CLionProjects/TestingProblems/链表/合并两个有序链表.cpp -o CMakeFiles/TestingProblems.dir/链表/合并两个有序链表.cpp.s
 
+CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.o: CMakeFiles/TestingProblems.dir/flags.make
+CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.o: ../链表/反转链表.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.o -c /Users/godchao/CLionProjects/TestingProblems/链表/反转链表.cpp
+
+CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/godchao/CLionProjects/TestingProblems/链表/反转链表.cpp > CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.i
+
+CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/godchao/CLionProjects/TestingProblems/链表/反转链表.cpp -o CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.s
+
+CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.o: CMakeFiles/TestingProblems.dir/flags.make
+CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.o: ../链表/分隔链表.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.o -c /Users/godchao/CLionProjects/TestingProblems/链表/分隔链表.cpp
+
+CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/godchao/CLionProjects/TestingProblems/链表/分隔链表.cpp > CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.i
+
+CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/godchao/CLionProjects/TestingProblems/链表/分隔链表.cpp -o CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.s
+
 # Object files for target TestingProblems
 TestingProblems_OBJECTS = \
-"CMakeFiles/TestingProblems.dir/链表/合并两个有序链表.cpp.o"
+"CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.o" \
+"CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.o" \
+"CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.o" \
+"CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.o" \
+"CMakeFiles/TestingProblems.dir/链表/合并两个有序链表.cpp.o" \
+"CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.o" \
+"CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.o"
 
 # External object files for target TestingProblems
 TestingProblems_EXTERNAL_OBJECTS =
 
+TestingProblems: CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.o
+TestingProblems: CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.o
+TestingProblems: CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.o
+TestingProblems: CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.o
 TestingProblems: CMakeFiles/TestingProblems.dir/链表/合并两个有序链表.cpp.o
+TestingProblems: CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.o
+TestingProblems: CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.o
 TestingProblems: CMakeFiles/TestingProblems.dir/build.make
 TestingProblems: CMakeFiles/TestingProblems.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable TestingProblems"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable TestingProblems"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TestingProblems.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
