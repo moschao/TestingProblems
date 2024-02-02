@@ -8,13 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/godchao/CLionProjects/TestingProblems/字符串类/5.最长回文子串.cpp" "/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles/TestingProblems.dir/字符串类/5.最长回文子串.cpp.o"
-  "/Users/godchao/CLionProjects/TestingProblems/字符串类/无重复字符的最长子串.cpp" "/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles/TestingProblems.dir/字符串类/无重复字符的最长子串.cpp.o"
-  "/Users/godchao/CLionProjects/TestingProblems/排序类/HJ68成绩排序.cpp" "/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles/TestingProblems.dir/排序类/HJ68成绩排序.cpp.o"
-  "/Users/godchao/CLionProjects/TestingProblems/数组/HJ3明明的随机数.cpp" "/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles/TestingProblems.dir/数组/HJ3明明的随机数.cpp.o"
-  "/Users/godchao/CLionProjects/TestingProblems/链表/分隔链表.cpp" "/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles/TestingProblems.dir/链表/分隔链表.cpp.o"
-  "/Users/godchao/CLionProjects/TestingProblems/链表/反转链表.cpp" "/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles/TestingProblems.dir/链表/反转链表.cpp.o"
-  "/Users/godchao/CLionProjects/TestingProblems/链表/合并两个有序链表.cpp" "/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles/TestingProblems.dir/链表/合并两个有序链表.cpp.o"
+  "/Users/godchao/CLionProjects/TestingProblems/数组/560和为k的子数组.cpp" "/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles/TestingProblems.dir/数组/560和为k的子数组.cpp.o"
+  "/Users/godchao/CLionProjects/TestingProblems/数组/接雨水.cpp" "/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles/TestingProblems.dir/数组/接雨水.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
@@ -26,8 +21,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

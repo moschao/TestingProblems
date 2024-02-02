@@ -17,26 +17,6 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="TestingProblems">
 				<Option output="/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/TestingProblems" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug"/>
@@ -79,26 +59,31 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 		</Build>
-		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/字符串类/5.最长回文子串.cpp">
+		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/560和为k的子数组.cpp">
 			<Option target="TestingProblems"/>
 		</Unit>
-		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/字符串类/无重复字符的最长子串.cpp">
-			<Option target="TestingProblems"/>
-		</Unit>
-		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/排序类/HJ68成绩排序.cpp">
-			<Option target="TestingProblems"/>
-		</Unit>
-		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/HJ3明明的随机数.cpp">
-			<Option target="TestingProblems"/>
-		</Unit>
-		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/链表/分隔链表.cpp">
-			<Option target="TestingProblems"/>
-		</Unit>
-		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/链表/反转链表.cpp">
-			<Option target="TestingProblems"/>
-		</Unit>
-		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/链表/合并两个有序链表.cpp">
+		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/接雨水.cpp">
 			<Option target="TestingProblems"/>
 		</Unit>
 		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/CMakeLists.txt">
