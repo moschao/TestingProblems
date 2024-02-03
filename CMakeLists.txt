@@ -15,4 +15,5 @@ add_executable(TestingProblems
         #字符串类/49.字符串异位词分组.cpp
         #哈希表/128.最长连续子序列.cpp
         数组/接雨水.cpp
-        数组/560和为k的子数组.cpp)
+        数组/560和为k的子数组.cpp
+        数组/239滑动窗口最大值.cpp)

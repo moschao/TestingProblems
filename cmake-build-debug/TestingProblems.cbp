@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/239滑动窗口最大值.cpp">
+			<Option target="TestingProblems"/>
+		</Unit>
 		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/560和为k的子数组.cpp">
 			<Option target="TestingProblems"/>
 		</Unit>
