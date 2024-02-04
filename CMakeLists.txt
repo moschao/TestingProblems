@@ -23,5 +23,6 @@ add_executable(TestingProblems
         #数组/238除数组自身以外的乘积.cpp
         #数组/189轮转数组.cpp
         #数组/73矩阵置零.cpp
-        数组/169多数元素.cpp
-        数组/56合并区间.cpp)
+        #数组/169多数元素.cpp
+        #数组/56合并区间.cpp
+        数组/15三数之和.cpp)

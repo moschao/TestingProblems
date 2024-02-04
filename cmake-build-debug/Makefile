@@ -129,53 +129,29 @@ TestingProblems/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/build
 .PHONY : TestingProblems/fast
 
-数组/169多数元素.o: 数组/169多数元素.cpp.o
-.PHONY : 数组/169多数元素.o
+数组/15三数之和.o: 数组/15三数之和.cpp.o
+.PHONY : 数组/15三数之和.o
 
 # target to build an object file
-数组/169多数元素.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/169多数元素.cpp.o
-.PHONY : 数组/169多数元素.cpp.o
+数组/15三数之和.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o
+.PHONY : 数组/15三数之和.cpp.o
 
-数组/169多数元素.i: 数组/169多数元素.cpp.i
-.PHONY : 数组/169多数元素.i
-
-# target to preprocess a source file
-数组/169多数元素.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/169多数元素.cpp.i
-.PHONY : 数组/169多数元素.cpp.i
-
-数组/169多数元素.s: 数组/169多数元素.cpp.s
-.PHONY : 数组/169多数元素.s
-
-# target to generate assembly for a file
-数组/169多数元素.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/169多数元素.cpp.s
-.PHONY : 数组/169多数元素.cpp.s
-
-数组/56合并区间.o: 数组/56合并区间.cpp.o
-.PHONY : 数组/56合并区间.o
-
-# target to build an object file
-数组/56合并区间.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/56合并区间.cpp.o
-.PHONY : 数组/56合并区间.cpp.o
-
-数组/56合并区间.i: 数组/56合并区间.cpp.i
-.PHONY : 数组/56合并区间.i
+数组/15三数之和.i: 数组/15三数之和.cpp.i
+.PHONY : 数组/15三数之和.i
 
 # target to preprocess a source file
-数组/56合并区间.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/56合并区间.cpp.i
-.PHONY : 数组/56合并区间.cpp.i
+数组/15三数之和.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.i
+.PHONY : 数组/15三数之和.cpp.i
 
-数组/56合并区间.s: 数组/56合并区间.cpp.s
-.PHONY : 数组/56合并区间.s
+数组/15三数之和.s: 数组/15三数之和.cpp.s
+.PHONY : 数组/15三数之和.s
 
 # target to generate assembly for a file
-数组/56合并区间.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/56合并区间.cpp.s
-.PHONY : 数组/56合并区间.cpp.s
+数组/15三数之和.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.s
+.PHONY : 数组/15三数之和.cpp.s
 
 # Help Target
 help:
@@ -186,12 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... TestingProblems"
-	@echo "... 数组/169多数元素.o"
-	@echo "... 数组/169多数元素.i"
-	@echo "... 数组/169多数元素.s"
-	@echo "... 数组/56合并区间.o"
-	@echo "... 数组/56合并区间.i"
-	@echo "... 数组/56合并区间.s"
+	@echo "... 数组/15三数之和.o"
+	@echo "... 数组/15三数之和.i"
+	@echo "... 数组/15三数之和.s"
 .PHONY : help
 
 

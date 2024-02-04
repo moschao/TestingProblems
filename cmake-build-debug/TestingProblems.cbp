@@ -80,10 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/169多数元素.cpp">
-			<Option target="TestingProblems"/>
-		</Unit>
-		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/56合并区间.cpp">
+		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/15三数之和.cpp">
 			<Option target="TestingProblems"/>
 		</Unit>
 		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/CMakeLists.txt">
