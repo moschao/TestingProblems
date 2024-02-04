@@ -80,13 +80,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/239滑动窗口最大值.cpp">
+		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/169多数元素.cpp">
 			<Option target="TestingProblems"/>
 		</Unit>
-		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/560和为k的子数组.cpp">
-			<Option target="TestingProblems"/>
-		</Unit>
-		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/接雨水.cpp">
+		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/数组/56合并区间.cpp">
 			<Option target="TestingProblems"/>
 		</Unit>
 		<Unit filename="/Users/godchao/CLionProjects/TestingProblems/CMakeLists.txt">
