@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o"
-  "CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o.d"
+  "CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o"
+  "CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o.d"
   "TestingProblems"
   "TestingProblems.pdb"
 )

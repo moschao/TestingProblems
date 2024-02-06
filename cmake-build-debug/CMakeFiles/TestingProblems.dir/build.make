@@ -69,28 +69,28 @@ include CMakeFiles/TestingProblems.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/TestingProblems.dir/flags.make
 
-CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o: CMakeFiles/TestingProblems.dir/flags.make
-CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o: /Users/godchao/CLionProjects/TestingProblems/数组/15三数之和.cpp
-CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o: CMakeFiles/TestingProblems.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o -MF CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o.d -o CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o -c /Users/godchao/CLionProjects/TestingProblems/数组/15三数之和.cpp
+CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o: CMakeFiles/TestingProblems.dir/flags.make
+CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o: /Users/godchao/CLionProjects/TestingProblems/数组/46全排列.cpp
+CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o: CMakeFiles/TestingProblems.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o -MF CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o.d -o CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o -c /Users/godchao/CLionProjects/TestingProblems/数组/46全排列.cpp
 
-CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/godchao/CLionProjects/TestingProblems/数组/15三数之和.cpp > CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.i
+CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/godchao/CLionProjects/TestingProblems/数组/46全排列.cpp > CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.i
 
-CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/godchao/CLionProjects/TestingProblems/数组/15三数之和.cpp -o CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.s
+CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/godchao/CLionProjects/TestingProblems/数组/46全排列.cpp -o CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.s
 
 # Object files for target TestingProblems
 TestingProblems_OBJECTS = \
-"CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o"
+"CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o"
 
 # External object files for target TestingProblems
 TestingProblems_EXTERNAL_OBJECTS =
 
-TestingProblems: CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o
+TestingProblems: CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o
 TestingProblems: CMakeFiles/TestingProblems.dir/build.make
 TestingProblems: CMakeFiles/TestingProblems.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/godchao/CLionProjects/TestingProblems/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable TestingProblems"

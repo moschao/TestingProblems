@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/godchao/CLionProjects/TestingProblems/数组/15三数之和.cpp" "CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o" "gcc" "CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o.d"
+  "/Users/godchao/CLionProjects/TestingProblems/数组/46全排列.cpp" "CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o" "gcc" "CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

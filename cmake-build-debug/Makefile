@@ -129,29 +129,29 @@ TestingProblems/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/build
 .PHONY : TestingProblems/fast
 
-数组/15三数之和.o: 数组/15三数之和.cpp.o
-.PHONY : 数组/15三数之和.o
+数组/46全排列.o: 数组/46全排列.cpp.o
+.PHONY : 数组/46全排列.o
 
 # target to build an object file
-数组/15三数之和.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.o
-.PHONY : 数组/15三数之和.cpp.o
+数组/46全排列.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.o
+.PHONY : 数组/46全排列.cpp.o
 
-数组/15三数之和.i: 数组/15三数之和.cpp.i
-.PHONY : 数组/15三数之和.i
+数组/46全排列.i: 数组/46全排列.cpp.i
+.PHONY : 数组/46全排列.i
 
 # target to preprocess a source file
-数组/15三数之和.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.i
-.PHONY : 数组/15三数之和.cpp.i
+数组/46全排列.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.i
+.PHONY : 数组/46全排列.cpp.i
 
-数组/15三数之和.s: 数组/15三数之和.cpp.s
-.PHONY : 数组/15三数之和.s
+数组/46全排列.s: 数组/46全排列.cpp.s
+.PHONY : 数组/46全排列.s
 
 # target to generate assembly for a file
-数组/15三数之和.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/15三数之和.cpp.s
-.PHONY : 数组/15三数之和.cpp.s
+数组/46全排列.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/TestingProblems.dir/build.make CMakeFiles/TestingProblems.dir/数组/46全排列.cpp.s
+.PHONY : 数组/46全排列.cpp.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... TestingProblems"
-	@echo "... 数组/15三数之和.o"
-	@echo "... 数组/15三数之和.i"
-	@echo "... 数组/15三数之和.s"
+	@echo "... 数组/46全排列.o"
+	@echo "... 数组/46全排列.i"
+	@echo "... 数组/46全排列.s"
 .PHONY : help
 
 
